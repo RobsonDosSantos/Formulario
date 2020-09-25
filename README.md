@@ -16,7 +16,7 @@ Tela Login
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://i.imgur.com/t0bQoXK.gif" alt="demo" height="300">
+  <img align="center" src="https://i.imgur.com/t0bQoXK.gif" alt="demo" height="300">
 </div>
 
 <hr />

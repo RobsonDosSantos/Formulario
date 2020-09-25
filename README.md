@@ -16,13 +16,13 @@ Tela Login
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="https://i.imgur.com/t0bQoXK.gif" alt="demo" height="425">
+  <img src="https://i.imgur.com/t0bQoXK.gif" alt="demo" height="400">
 </div>
 
 <hr />
 
 ## Linguagens utilizadas ##
-
+<br>
 - HTML
 - CSS
 
